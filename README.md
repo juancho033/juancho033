@@ -27,9 +27,36 @@ Soy estudiante de tecnico en sistemas y desarrollador front-end enfocado en crea
 
 ## Projects
 
-- **[JuanLauncher](https://github.com/juancho033/juanlauncher)** - Desktop application to download and test PC games
-- **[JuanTune](https://github.com/juancho033/JUANTUNE)** - MP3 audio player built with Python
-- **[JuanFlix](https://github.com/juancho033/JuanFlix)** - Movie downloader tool
+### JuanLauncher
+*Desktop game launcher*
+
+Un proyecto que empece por aburrimiento y que ahora he ido desarrollando con un par de amigos. Actualmente le estoy implementando una base de datos con Google Firebase para gestionar descargas y contenido.
+
+![JuanLauncher](https://raw.githubusercontent.com/juancho033/juancho033/main/assets/juanlauncher-img.png)
+
+[View Repository](https://github.com/juancho033/juanlauncher)
+
+---
+
+### JuanTune
+*MP3 audio player built with Python*
+
+Un reproductor de musica que desarrolle en mi tiempo libre mientras aprendia Python y CustomTkinter. Actualmente estoy trabajando en un port desde cero para dispositivos moviles.
+
+![JuanTune](https://raw.githubusercontent.com/juancho033/juancho033/main/assets/juantune-img.png)
+
+[View Repository](https://github.com/juancho033/JUANTUNE)
+
+---
+
+### JuanFlix
+*Movie downloader tool*
+
+Cree esta herramienta porque estaba cansado de las paginas de peliculas llenas de acortadores y publicidad excesiva. Tambien queria practicar JavaScript y aprender a integrar StreamTape. Actualmente esta en una etapa muy temprana de desarrollo.
+
+![JuanFlix](https://raw.githubusercontent.com/juancho033/juancho033/main/assets/juanflix-img.png)
+
+[View Repository](https://github.com/juancho033/JuanFlix)
 
 ---
 
