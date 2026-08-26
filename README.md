@@ -7,8 +7,9 @@ Soy estudiante de tecnico en sistemas y desarrollador front-end enfocado en crea
 ---
 
 ![Mi GIF animado](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTljc21pNmM3eDJlemQ4NHhwYmIwN2t6MHNrcjRsYjY3bnE5cmM4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IB9foBA4PVkKA/giphy.gif)
-![Mi GIF animado]
-(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2o5aW1xOXRmOWp3eG9nb2N2cjIyOHJyeWg3bXk5dHo0eG5yN3ExeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif)
+
+![Mi GIF animado](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2o5aW1xOXRmOWp3eG9nb2N2cjIyOHJyeWg3bXk5dHo0eG5yN3ExeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif)
+
 
 
 ## Skills
