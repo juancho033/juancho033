@@ -6,6 +6,9 @@ Soy estudiante de tecnico en sistemas y desarrollador front-end enfocado en crea
 
 ---
 
+![Mi GIF animado](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTljc21pNmM3eDJlemQ4NHhwYmIwN2t6MHNrcjRsYjY3bnE5cmM4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IB9foBA4PVkKA/giphy.gif)
+
+
 ## Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
