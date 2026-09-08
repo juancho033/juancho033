@@ -58,7 +58,7 @@ Un reproductor de musica que desarrolle en mi tiempo libre mientras aprendia Pyt
 ### JuanFlix
 *Movie downloader tool*
 
-Cree esta herramienta porque estaba cansado de las paginas de peliculas llenas de acortadores y publicidad excesiva. Tambien queria practicar JavaScript y aprender a integrar StreamTape. Actualmente esta en una etapa muy temprana de desarrollo.
+Cree esta herramienta porque estaba cansado de las paginas de peliculas llenas de acortadores y publicidad excesiva. Tambien queria practicar JavaScript y aprender a integrar StreamTape. Actualmente esta en una etapa muy temprana de desarrollo. (PROYECTO CANCELADO, DESPUES REMPLAZO ESTA SECCION POR OTRA)
 
 ![JuanFlix](https://raw.githubusercontent.com/juancho033/juancho033/main/assets/juanflix-img.png)
 
