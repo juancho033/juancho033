@@ -36,7 +36,7 @@ Soy estudiante de tecnico en sistemas y desarrollador front-end enfocado en crea
 ### JuanLauncher
 *Desktop game launcher*
 
-Un proyecto que empece por aburrimiento y que ahora he ido desarrollando con un par de amigos. Actualmente le estoy implementando una base de datos con Google Firebase para chats de comunidad.
+Un proyecto que empeze por aburrimiento y que ahora he ido desarrollando con un par de amigos. Actualmente le estoy implementando una base de datos con Google Firebase para chats de comunidad. (Tal vez Termine este Proyecto en unos Meses)
 
 ![JuanLauncher](https://raw.githubusercontent.com/juancho033/juancho033/main/assets/juanlauncher-img.png)
 
