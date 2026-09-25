@@ -2,7 +2,7 @@
 
 **Tecnico en Sistemas | Front-End Developer**
 
-Soy estudiante de tecnico en sistemas y desarrollador front-end enfocado en crear interfaces web funcionales y limpias. Actualmente ampliando conocimientos en TypeScript y Python.
+Desarrollador Front-End & Técnico en Sistemas. Enfocado en interfaces web funcionales y limpias. Aprendiendo TypeScript y Python. 
 
 ---
 
