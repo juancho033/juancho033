@@ -12,7 +12,7 @@ Desarrollador Front-End & Técnico en Sistemas. Enfocado en interfaces web funci
 
 
 
-## Skills
+
 
 ## Skills
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
@@ -26,9 +26,9 @@ Desarrollador Front-End & Técnico en Sistemas. Enfocado en interfaces web funci
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juancho033&show_icons=true&theme=dark&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juancho033&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/juancho033)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juancho033&layout=compact&theme=dark&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juancho033&layout=compact&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/juancho033)
 
 ---
 
